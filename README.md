@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HealthQ — AI-Powered Smart Prescription & Lab Report Intelligence Portal
 
 HealthQ is a production-ready, full-stack medical intelligence platform designed to improve healthcare accessibility, translation, and medication safety awareness. It helps patients decipher handwritten prescriptions, translate clinical lab parameters (blood sugar, thyroid panel, lipids, BP) into plain text explanations, verify drug interactions, check allergen warnings, and get personalized dietary advice.
@@ -128,3 +129,6 @@ COPY . .
 RUN npm run build
 CMD ["npm", "start"]
 ```
+=======
+# HealthQ
+>>>>>>> 4af02d0a592b14c880f9f85b91df058c0af3c9f3
