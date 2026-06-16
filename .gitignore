@@ -1,0 +1,48 @@
+# Node.js / Next.js
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+out/
+frontend/out/
+build/
+frontend/build/
+tsconfig.tsbuildinfo
+frontend/tsconfig.tsbuildinfo
+
+# Python virtual environment
+venv/
+backend/venv/
+.venv/
+env/
+ENV/
+bin/
+lib/
+include/
+pip-selfcheck.json
+
+# Python cache / logs
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+backend/gemini_output.txt
+
+# Databases and Local Configurations
+*.db
+*.sqlite3
+backend/instance/
+instance/
+
+# Local Environment Variables and Secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+frontend/.env
+
+# Operating System Files
+.DS_Store
+Thumbs.db
